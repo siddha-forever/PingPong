@@ -22,6 +22,6 @@ A simple Ping Pong game built using Python and Pygame. The game supports two pla
 	•	Pygame library
 
  ## Screenshots
- ![Start](start.png)
+ ![Start](start1.png)
 
- ![mid](play.png)
+ ![mid](play2.png)
